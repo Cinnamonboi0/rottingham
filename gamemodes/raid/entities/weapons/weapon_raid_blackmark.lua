@@ -1,7 +1,7 @@
 
 -- Variables that are used on both client and server
 
-SWEP.PrintName		= "Painkiller" -- 'Nice' Weapon name (Shown on HUD)
+SWEP.PrintName		= "The Black Mark" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
@@ -9,31 +9,22 @@ SWEP.Instructions	= ""
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
-SWEP.ViewModel		= "models/weapons/c_painkiller.mdl"
-SWEP.UseHands = true
-SWEP.WorldModel		= "models/weapons/w_painkiller.mdl"
+SWEP.ViewModel		= "models/weapons/w_blackmark.mdl"
+SWEP.WorldModel		= "models/weapons/w_blackmark.mdl"
 SWEP.HoldType		= "pistol"
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false
 
-SWEP.Primary.ClipSize		= 6			-- Size of a clip
-SWEP.Primary.DefaultClip	= 6		-- Default number of bullets in a clip
+SWEP.Primary.ClipSize		= 8			-- Size of a clip
+SWEP.Primary.DefaultClip	= 8		-- Default number of bullets in a clip
 SWEP.Primary.Automatic		= false		-- Automatic/Semi Auto
-SWEP.Primary.Ammo			= "pistol"
-SWEP.Primary.Damage			= 40
-SWEP.Primary.Sound			= "tekka/weapons/weapon_pistolcrack.wav"
-SWEP.Primary.Delay			= 0.4
+SWEP.Primary.Ammo			= "Pistol"
+SWEP.Primary.Damage			= 25
+SWEP.Primary.Sound			= "tekka/weapons/weapon_blat.wav"
+SWEP.Primary.Delay			= 0.2
 SWEP.Primary.NumBullets		= 1
-SWEP.Primary.Accuracy		= 0.3
-SWEP.Primary.Aimcone		= 0.01
-
-
-SWEP.Secondary.ClipSize		= -1
-SWEP.Secondary.DefaultClip	= -1
-SWEP.Secondary.Automatic	= false
-SWEP.Secondary.Ammo		= "none"
-
+SWEP.Primary.Accuracy		= 0.03
 
 --[[---------------------------------------------------------
 	Name: SWEP:Initialize()
