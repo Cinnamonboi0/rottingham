@@ -59,7 +59,7 @@ function SWEP:PrimaryAttack()
 	self:TakePrimaryAmmo( 1 )
 	self:SetNextPrimaryFire( CurTime() + self.Primary.Delay )
 	-- Punch the player's view
-	if ( !self.Owner:IsNPC() ) then self.Owner:ViewPunch( Angle( -1, 0, 0 ) ) end
+	if ( !self.Owner:IsNPC() ) then self.Owner:ViewPunch( Angle( -4, 0, 0 ) ) end
 
 end
 

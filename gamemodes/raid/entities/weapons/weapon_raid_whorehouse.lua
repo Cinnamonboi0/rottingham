@@ -44,3 +44,22 @@ function SWEP:Initialize()
 
 end
 
+function SWEP:PrimaryAttack()
+
+	-- Make sure we can shoot first
+	if ( !self:CanPrimaryAttack() ) then return end
+
+	-- Play shoot sound
+	self:EmitSound( self.Primary.Sound )
+
+	-- Shoot 9 bullets, 150 damage, 0.75 aimcone
+	self:ShootBullet( self.Primary.Damage, self.Primary.NumBullets, self.Primary.Aimcone, self.Primary.Ammo )
+
+	-- Remove 1 bullet from our clip
+	self:TakePrimaryAmmo( 1 )
+	self:SetNextPrimaryFire( CurTime() + self.Primary.Delay )
+	-- Punch the player's view
+	if ( !self.Owner:IsNPC() ) then self.Owner:ViewPunch( Angle( -2, 0, 0 ) ) end
+
+end
+
