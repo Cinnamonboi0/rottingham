@@ -25,9 +25,13 @@ SWEP.Primary.Damage			= 10
 SWEP.Primary.Sound			= "tekka/weapons/weapon_pistolsmall.wav"
 SWEP.Primary.Delay			= 0.15
 SWEP.Primary.NumBullets		= 1
-SWEP.Primary.Accuracy		= 0.27
-SWEP.Primary.Aimcone		= 0.8
+SWEP.Primary.Accuracy		= 0.2
+SWEP.Primary.Aimcone		= 0.01
 
+SWEP.Secondary.ClipSize		= -1
+SWEP.Secondary.DefaultClip	= -1
+SWEP.Secondary.Automatic	= false
+SWEP.Secondary.Ammo		= "none"
 
 
 --[[---------------------------------------------------------

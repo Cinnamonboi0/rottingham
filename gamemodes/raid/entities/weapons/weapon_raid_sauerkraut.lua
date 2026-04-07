@@ -26,8 +26,7 @@ SWEP.Primary.Sound			= "tekka/weapons/weapon_aks.wav"
 SWEP.Primary.Delay			= 0.1
 SWEP.Primary.NumBullets		= 1
 SWEP.Primary.Accuracy		= 0.3
-SWEP.Primary.Aimcone		= 0.1
-
+SWEP.Primary.Aimcone		= 0.03
 
 SWEP.Secondary.ClipSize		= -1
 SWEP.Secondary.DefaultClip	= -1

@@ -27,6 +27,7 @@ SWEP.Primary.Delay			= 0.7
 SWEP.Primary.NumBullets		= 1
 SWEP.Primary.Accuracy		= 0.01
 SWEP.Primary.Aimcone		= 0.01
+SWEP.Primary.Recoil = 2
 
 SWEP.Secondary.ClipSize		= -1
 SWEP.Secondary.DefaultClip	= -1
