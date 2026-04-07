@@ -9,10 +9,10 @@ SWEP.Instructions	= ""
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
-SWEP.ViewModel		= "models/weapons/w_blackmark.mdl"
+SWEP.ViewModel		= "models/weapons/c_blackmark.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/weapons/w_blackmark.mdl"
-SWEP.HoldType		= "pistol"
+SWEP.HoldType		= "Pistol"	
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false
@@ -20,7 +20,7 @@ SWEP.AdminOnly		= false
 SWEP.Primary.ClipSize		= 8			-- Size of a clip
 SWEP.Primary.DefaultClip	= 8		-- Default number of bullets in a clip
 SWEP.Primary.Automatic		= false		-- Automatic/Semi Auto
-SWEP.Primary.Ammo			= "Pistol"
+SWEP.Primary.Ammo			= "pistol"
 SWEP.Primary.Damage			= 25
 SWEP.Primary.Sound			= "tekka/weapons/weapon_blat.wav"
 SWEP.Primary.Delay			= 0.2
