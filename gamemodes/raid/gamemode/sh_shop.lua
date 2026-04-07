@@ -1,5 +1,6 @@
 GM.Shop = {
 	["Weapons"] = {
+		{ "Whore House", "weapon_raid_whorehouse", 25 },
 		{ "Son Of Liberty", "weapon_raid_sonofliberty", 150 },
 		{ "The Black Mark", "weapon_raid_blackmark", 10 },
 		{ "Painkiller", "weapon_raid_painkiller", 25 },
@@ -9,13 +10,13 @@ GM.Shop = {
 		{ "Lubov", "weapon_raid_autoshotgun", 80 },
 		{ "Bird Flu", "weapon_raid_birdflu", 40 },
 		{ "Medkit", "weapon_medkit", 75 },
-		{ "Crossbow", "weapon_crossbow", 75 },
+		{ "The Professional", "weapon_raid_professional", 90 },
 		{ "Gravgun", "weapon_physcannon", 100 },
-		{ "Owler", "weapon_raid_smg" , 20},
+		{ "Owler", "weapon_raid_owler" , 30},
 		{ "Sauerkraut", "weapon_raid_sauerkraut", 100 },
 		{ "RPG", "weapon_rpg", 100 },
 		{ "Grenade", "weapon_frag", 20, true },
-		{ "Bugbait", "weapon_bugbait", 10, true },
+	  
 	},  
 	["Ammo"] = {
 		{ "Pistol", "item_ammo_pistol", 5 },
@@ -23,7 +24,7 @@ GM.Shop = {
 		{ "SMG", "item_ammo_smg1", 10 },
 		{ "Shotgun", "item_box_buckshot", 30 },
 		{ "Handcannon", "item_ammo_357", 10 },
-		{ "Crossbow", "item_ammo_crossbow", 30 },
+		{ "Crossbow", "item_ammo_crossbow", 25 },
 		{ "Rifle", "item_ammo_ar2", 15 },
 		--{ "AR2 Alt", "item_ammo_ar2_altfire", 20 },
 		--{ "SMG Alt", "item_ammo_smg1_grenade", 20 },

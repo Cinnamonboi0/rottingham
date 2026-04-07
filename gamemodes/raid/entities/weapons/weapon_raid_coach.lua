@@ -5,7 +5,7 @@ SWEP.PrintName		= "Coach" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "The favorite of Gangrene's Sanitar squad. "
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false

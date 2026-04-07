@@ -5,7 +5,7 @@ SWEP.PrintName		= "Painkiller" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A small self-defense revolver, still packs a small punch."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
@@ -21,11 +21,11 @@ SWEP.Primary.ClipSize		= 6			-- Size of a clip
 SWEP.Primary.DefaultClip	= 6		-- Default number of bullets in a clip
 SWEP.Primary.Automatic		= false		-- Automatic/Semi Auto
 SWEP.Primary.Ammo			= "pistol"
-SWEP.Primary.Damage			= 40
+SWEP.Primary.Damage			= 35
 SWEP.Primary.Sound			= "tekka/weapons/weapon_pistolcrack.wav"
 SWEP.Primary.Delay			= 0.4
 SWEP.Primary.NumBullets		= 1
-SWEP.Primary.Accuracy		= 0.3
+SWEP.Primary.Accuracy		= 0.1
 SWEP.Primary.Aimcone		= 0.01
 
 

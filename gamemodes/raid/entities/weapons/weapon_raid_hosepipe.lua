@@ -5,7 +5,7 @@ SWEP.PrintName		= "Arrythmian Hosepipe" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A rottish caporegime's favorite weapon, they would never leave home without it."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false

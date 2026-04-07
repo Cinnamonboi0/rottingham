@@ -5,7 +5,7 @@ SWEP.PrintName		= "The whorehouse" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "These bad boys are madly in love with each other."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
@@ -25,8 +25,8 @@ SWEP.Primary.Damage			= 10
 SWEP.Primary.Sound			= "tekka/weapons/weapon_pistolsmall.wav"
 SWEP.Primary.Delay			= 0.1
 SWEP.Primary.NumBullets		= 6
-SWEP.Primary.Accuracy		= 0.15
-SWEP.Primary.Aimcone		= 0.06
+SWEP.Primary.Accuracy		= 0.27
+SWEP.Primary.Aimcone		= 0.8
 
 SWEP.Secondary.ClipSize		= -1
 SWEP.Secondary.DefaultClip	= -1

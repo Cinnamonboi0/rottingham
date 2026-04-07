@@ -5,7 +5,7 @@ SWEP.PrintName		= "Sauer-Kraut" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A rifle taken from the gangrals, what a terrible rifle."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false

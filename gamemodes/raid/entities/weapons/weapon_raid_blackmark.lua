@@ -5,7 +5,7 @@ SWEP.PrintName		= "The Black Mark" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A pistol taken from a prohladian officer, may it serve you better then him."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
@@ -25,7 +25,7 @@ SWEP.Primary.Damage			= 25
 SWEP.Primary.Sound			= "tekka/weapons/weapon_blat.wav"
 SWEP.Primary.Delay			= 0.2
 SWEP.Primary.NumBullets		= 1
-SWEP.Primary.Accuracy		= 0.03
+SWEP.Primary.Accuracy		= 0.2
 SWEP.Primary.Aimcone		= 0.01
 
 

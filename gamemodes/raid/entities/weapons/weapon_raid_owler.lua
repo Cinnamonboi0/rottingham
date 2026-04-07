@@ -5,7 +5,7 @@ SWEP.PrintName		= "Owler" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A cheap piece of shit submachine gun."
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false

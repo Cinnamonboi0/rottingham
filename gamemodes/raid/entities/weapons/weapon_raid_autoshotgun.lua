@@ -5,7 +5,7 @@ SWEP.PrintName		= "Lubov" -- 'Nice' Weapon name (Shown on HUD)
 SWEP.Author			= ""
 SWEP.Contact		= ""
 SWEP.Purpose		= ""
-SWEP.Instructions	= ""
+SWEP.Instructions	= "A favorite of many cultists, a rarity. "
 
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
@@ -21,7 +21,7 @@ SWEP.Primary.ClipSize		= 12			-- Size of a clip
 SWEP.Primary.DefaultClip	= 12		-- Default number of bullets in a clip
 SWEP.Primary.Automatic		= true		-- Automatic/Semi Auto
 SWEP.Primary.Ammo			= "Buckshot"
-SWEP.Primary.Damage			= 5
+SWEP.Primary.Damage			= 7
 SWEP.Primary.Sound			= "tekka/weapons/weapon_shotgunblast.wav"
 SWEP.Primary.Delay			= 0.3
 SWEP.Primary.NumBullets		= 6
