@@ -1,5 +1,6 @@
 GM.Shop = {
 	["Weapons"] = {
+		{ "Son Of Liberty", "weapon_raid_sonofliberty", 150 },
 		{ "The Black Mark", "weapon_raid_blackmark", 10 },
 		{ "Painkiller", "weapon_raid_painkiller", 25 },
 		{ "City Of Fear", "weapon_raid_cityoffear", 35 },

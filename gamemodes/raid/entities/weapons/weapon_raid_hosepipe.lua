@@ -17,11 +17,11 @@ SWEP.HoldType		= "smg"
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false
 
-SWEP.Primary.ClipSize		= 25			-- Size of a clip
-SWEP.Primary.DefaultClip	= 25		-- Default number of bullets in a clip
+SWEP.Primary.ClipSize		= 40		-- Size of a clip
+SWEP.Primary.DefaultClip	= 40		-- Default number of bullets in a clip
 SWEP.Primary.Automatic		= true		-- Automatic/Semi Auto
 SWEP.Primary.Ammo			= "SMG1"
-SWEP.Primary.Damage			= 20
+SWEP.Primary.Damage			= 15
 SWEP.Primary.Sound			= "tekka/weapons/weapon_blat.wav"
 SWEP.Primary.Delay			= 0.1
 SWEP.Primary.NumBullets		= 1
