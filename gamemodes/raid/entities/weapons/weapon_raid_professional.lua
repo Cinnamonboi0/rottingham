@@ -14,7 +14,7 @@ SWEP.UseHands = true
 SWEP.WorldModel		= "models/tnb/weapons/w_svu.mdl"
 SWEP.HoldType		= "ar2"
 
-SWEP.Spawnable		= false
+SWEP.Spawnable		= false 
 SWEP.AdminOnly		= false
 
 SWEP.Primary.ClipSize		= 5			-- Size of a clip
@@ -26,8 +26,7 @@ SWEP.Primary.Sound			= "tekka/weapons/weapon_m24.wav"
 SWEP.Primary.Delay			= 0.7
 SWEP.Primary.NumBullets		= 1
 SWEP.Primary.Accuracy		= 0.01
-SWEP.Primary.Aimcone		= 0.01
-SWEP.Primary.Recoil          
+SWEP.Primary.Aimcone		= 0.01     
 
 SWEP.Secondary.ClipSize		= -1
 SWEP.Secondary.DefaultClip	= -1

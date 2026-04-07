@@ -1,7 +1,7 @@
 GM.Shop = {
 	["Weapons"] = {
-		{ "Professional", "weapon_raid_professional", 90 },
 		{ "Whore House", "weapon_raid_whorehouse", 25 },
+		{ "Professional", "weapon_raid_professional", 90 },
 		{ "Son Of Liberty", "weapon_raid_sonofliberty", 150 },
 		{ "The Black Mark", "weapon_raid_blackmark", 10 },
 		{ "Painkiller", "weapon_raid_painkiller", 25 },
