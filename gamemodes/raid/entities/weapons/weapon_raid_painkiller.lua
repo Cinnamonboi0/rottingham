@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/weapons/c_painkiller.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/weapons/w_painkiller.mdl"
 SWEP.HoldType		= "pistol"
+SWEP.Slot   		= 1
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

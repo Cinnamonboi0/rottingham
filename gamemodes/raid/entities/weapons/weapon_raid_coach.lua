@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/weapons/c_coach.mdl"
 SWEP.UseHands 		= true
 SWEP.WorldModel		= "models/weapons/w_coach.mdl"
 SWEP.HoldType		= "shotgun"
+SWEP.Slot   		= 3
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

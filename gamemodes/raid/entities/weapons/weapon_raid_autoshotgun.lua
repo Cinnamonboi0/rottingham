@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/tnb/weapons/c_saiga12.mdl"
 SWEP.UseHands 		= true
 SWEP.WorldModel		= "models/tnb/weapons/w_saiga12.mdl"
 SWEP.HoldType		= "shotgun"
+SWEP.Slot   		= 3
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false
@@ -69,7 +70,7 @@ function SWEP:SecondaryAttack()
 
 	self:EmitSound("Weapon_Shotgun.Single")
 
-	self:ShootBullet( 150, 1, 0.025, self.Secondary.Ammo )
+	self:ShootBullet( 75, 1, 0.025, self.Secondary.Ammo )
 
 	-- Remove 1 bullet from our clip
 	self:TakeSecondaryAmmo( 1 )

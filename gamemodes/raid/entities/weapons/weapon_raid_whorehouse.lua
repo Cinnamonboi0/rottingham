@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/tnb/weapons/c_glock_akimbo.mdl"
 SWEP.UseHands 		= true
 SWEP.WorldModel		= "models/tnb/weapons/w_glock_akimbo.mdl"
 SWEP.HoldType		= "pistol"
+SWEP.Slot   		= 1
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

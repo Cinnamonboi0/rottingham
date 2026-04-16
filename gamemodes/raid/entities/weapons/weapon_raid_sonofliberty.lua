@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/tnb/weapons/c_m4.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/tnb/weapons/w_m4.mdl"
 SWEP.HoldType		= "ar2"
+SWEP.Slot   		= 2
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

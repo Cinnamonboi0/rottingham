@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/tnb/weapons/c_thompson.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/tnb/weapons/w_thompson.mdl"
 SWEP.HoldType		= "smg"
+SWEP.Slot   		= 2
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

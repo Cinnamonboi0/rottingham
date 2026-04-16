@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/tnb/weapons/c_deserteagle.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/tnb/weapons/w_deserteagle.mdl"
 SWEP.HoldType		= "pistol"
+SWEP.Slot   		= 1
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

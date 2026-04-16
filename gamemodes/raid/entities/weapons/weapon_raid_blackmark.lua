@@ -13,6 +13,7 @@ SWEP.ViewModel		= "models/weapons/c_blackmark.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/weapons/w_blackmark.mdl"
 SWEP.HoldType		= "Pistol"	
+SWEP.Slot   		= 1
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false

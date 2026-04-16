@@ -7,12 +7,14 @@ SWEP.Contact		= ""
 SWEP.Purpose		= ""
 SWEP.Instructions	= "A cheap piece of shit submachine gun."
 
+
 SWEP.ViewModelFOV	= 62
 SWEP.ViewModelFlip	= false
 SWEP.ViewModel		= "models/tnb/weapons/c_skorpion.mdl"
 SWEP.UseHands = true
 SWEP.WorldModel		= "models/tnb/weapons/w_skorpion.mdl"
 SWEP.HoldType		= "ar2"
+SWEP.Slot   		= 2
 
 SWEP.Spawnable		= false
 SWEP.AdminOnly		= false
