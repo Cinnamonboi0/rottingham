@@ -67,11 +67,10 @@ GM.Weapons = { -- second value is the danger level increase for each weapon
 	{ "weapon_raid_birdflu", 0.5},
 	{ "weapon_raid_cityoffear", 0.3},
 	{ "weapon_raid_coach", 0.3 },
-	{ "weapon_raid_smg" , 0.1},
-	{ "weapon_raid_whorehouse"	, 0.3},
-	{ "weapon_raid_professional"	, 0.7},
-	{ "weapon_raid_sonofliberty"	, 1},
-	{ "weapon_raid_blackmark"	, 0.2},
+	{ "weapon_raid_whorehouse", 0.3},
+	{ "weapon_raid_professional", 0.7},
+	{ "weapon_raid_sonofliberty", 1},
+	{ "weapon_raid_blackmark", 0.2},
 };
 
 GM.RebelModels = {
